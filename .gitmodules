@@ -46,3 +46,84 @@
 [submodule "jenkins/jenkins-docker"]
 	path = jenkins/jenkins-docker
 	url = https://github.com/jenkinsci/docker.git
+[submodule "python/click"]
+	path = python/click
+	url = https://github.com/pallets/click.git
+[submodule "bash/promptx"]
+	path = bash/promptx
+	url = https://github.com/mritd/promptx.git
+[submodule "elisp/emacs"]
+	path = elisp/emacs
+	url = https://git.savannah.gnu.org/git/emacs.git
+[submodule "elisp/emacs-request"]
+	path = elisp/emacs-request
+	url = https://github.com/tkf/emacs-request.git
+[submodule "elisp/yafolding"]
+	path = elisp/yafolding
+	url = https://github.com/zenozeng/yafolding.el.git
+[submodule "elisp/dash.el"]
+	path = elisp/dash.el
+	url = https://github.com/magnars/dash.el.git
+[submodule "elisp/elpa"]
+	path = elisp/elpa
+	url = https://git.savannah.gnu.org/git/emacs/elpa.git
+[submodule "python/cpython"]
+	path = python/cpython
+	url = https://github.com/python/cpython.git
+[submodule "python/django/django"]
+	path = python/django/django
+	url = https://github.com/django/django.git
+[submodule "python/django/django-rest-framework"]
+	path = python/django/django-rest-framework
+	url = https://github.com/encode/django-rest-framework.git
+[submodule "python/six"]
+	path = python/six
+	url = https://github.com/benjaminp/six.git
+[submodule "python/scrapy"]
+	path = python/scrapy
+	url = https://github.com/scrapy/scrapy.git
+[submodule "python/gtk/passbook"]
+	path = python/gtk/passbook
+	url = https://gitlab.gnome.org/gnumdk/passbook.git
+[submodule "python/gtk/pitivi"]
+	path = python/gtk/pitivi
+	url = https://gitlab.gnome.org/GNOME/pitivi.git
+[submodule "python/gtk/xdot.py"]
+	path = python/gtk/xdot.py
+	url = https://github.com/jrfonseca/xdot.py.git
+[submodule "python/gtk/paperwork"]
+	path = python/gtk/paperwork
+	url = https://gitlab.gnome.org/World/OpenPaperwork/paperwork.git
+[submodule "python/gtk/guake"]
+	path = python/gtk/guake
+	url = https://github.com/Guake/guake.git
+[submodule "python/gtk/lollypop"]
+	path = python/gtk/lollypop
+	url = https://gitlab.gnome.org/World/lollypop.git
+[submodule "python/gtk/gaupol"]
+	path = python/gtk/gaupol
+	url = https://github.com/otsaloma/gaupol.git
+[submodule "python/gtk/organizer"]
+	path = python/gtk/organizer
+	url = https://gitlab.gnome.org/aviwad/organizer.git
+[submodule "python/gtk/eolie"]
+	path = python/gtk/eolie
+	url = https://gitlab.gnome.org/World/eolie.git
+[submodule "python/gtk/sonata"]
+	path = python/gtk/sonata
+	url = https://github.com/multani/sonata.git
+[submodule "python/gtk/timetrack"]
+	path = python/gtk/timetrack
+	url = https://gitlab.gnome.org/danigm/timetrack.git
+[submodule "python/gtk/gajim"]
+	path = python/gtk/gajim
+	url = https://dev.gajim.org/gajim/gajim.git
+[submodule "python/gtk/uberwriter"]
+	path = python/gtk/uberwriter
+	url = https://github.com/UberWriter/uberwriter.git
+[submodule "python/gtk/cozy"]
+	path = python/gtk/cozy
+	url = https://github.com/przemekkot/cozy.git
+[submodule "python/gtk/drawing"]
+	path = python/gtk/drawing
+	url = https://github.com/maoschanz/drawing.git
