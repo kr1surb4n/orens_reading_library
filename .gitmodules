@@ -1,0 +1,48 @@
+[submodule "bash/shell_scripts_mtrx"]
+	path = bash/shell_scripts_mtrx
+	url = https://github.com/mritd/shell_scripts.git
+[submodule "ansible/test-playbooks"]
+	path = ansible/test-playbooks
+	url = https://github.com/ansible/test-playbooks.git
+[submodule "ansible/bonovoxly-playbooks"]
+	path = ansible/bonovoxly-playbooks
+	url = https://github.com/bonovoxly/playbook.git
+[submodule "ansible/aws-starter"]
+	path = ansible/aws-starter
+	url = https://github.com/docker-production-aws/aws-starter.git
+[submodule "ansible/ansible-aws-examples"]
+	path = ansible/ansible-aws-examples
+	url = https://github.com/tgerla/ansible-aws-examples.git
+[submodule "ansible/ansible-playbook-aws.git"]
+	path = ansible/ansible-playbook-aws.git
+	url = https://github.com/willfarrell/ansible-playbook-aws.git
+[submodule "ansible/ansible-aws-vpc-playbook"]
+	path = ansible/ansible-aws-vpc-playbook
+	url = https://github.com/infinitypp/ansible-aws-vpc-playbook.git
+[submodule "ansible/gcp-playbooks"]
+	path = ansible/gcp-playbooks
+	url = https://github.com/markditsworth/playbooks.git
+[submodule "ansible/ansible-elasticsearch"]
+	path = ansible/ansible-elasticsearch
+	url = https://github.com/elastic/ansible-elasticsearch.git
+[submodule "ansible/azure-ansible-playbooks"]
+	path = ansible/azure-ansible-playbooks
+	url = https://github.com/Azure-Samples/ansible-playbooks.git
+[submodule "ansible/azure_modules"]
+	path = ansible/azure_modules
+	url = https://github.com/Azure/azure_modules.git
+[submodule "ansible/ansible-deploy-azure"]
+	path = ansible/ansible-deploy-azure
+	url = https://github.com/zwindler/ansible-deploy-azure.git
+[submodule "ansible/ansible4gcp"]
+	path = ansible/ansible4gcp
+	url = https://github.com/fvzwieten/ansible4gcp.git
+[submodule "jenkins/pipeline-examples"]
+	path = jenkins/pipeline-examples
+	url = https://github.com/jenkinsci/pipeline-examples.git
+[submodule "jenkins/jenkins"]
+	path = jenkins/jenkins
+	url = https://github.com/jenkinsci/jenkins.git
+[submodule "jenkins/jenkins-docker"]
+	path = jenkins/jenkins-docker
+	url = https://github.com/jenkinsci/docker.git
