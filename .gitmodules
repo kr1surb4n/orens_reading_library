@@ -127,3 +127,45 @@
 [submodule "python/gtk/drawing"]
 	path = python/gtk/drawing
 	url = https://github.com/maoschanz/drawing.git
+[submodule "git"]
+	path = git
+	url = https://github.com/git/git
+[submodule "ansible/ansible"]
+	path = ansible/ansible
+	url = https://github.com/ansible/ansible.git
+[submodule "ansible/ansible-examples"]
+	path = ansible/ansible-examples
+	url = https://github.com/ansible/ansible-examples.git
+[submodule "ansible/ansible-collection-template"]
+	path = ansible/ansible-collection-template
+	url = https://github.com/bcoca/collection.git
+[submodule "swagger/swagger-codegen"]
+	path = swagger/swagger-codegen
+	url = https://github.com/swagger-api/swagger-codegen.git
+[submodule "swagger/swagger-editor"]
+	path = swagger/swagger-editor
+	url = https://github.com/swagger-api/swagger-editor.git
+[submodule "realworld-apps/vue-frontend"]
+	path = realworld-apps/vue-frontend
+	url = https://github.com/gothinkster/vue-realworld-example-app
+[submodule "realworld-apps/node-backend"]
+	path = realworld-apps/node-backend
+	url = https://github.com/gothinkster/node-express-realworld-example-app.git
+[submodule "realworld-apps/flask-backend"]
+	path = realworld-apps/flask-backend
+	url = https://github.com/gothinkster/flask-realworld-example-app.git
+[submodule "realworld-apps/django-backend"]
+	path = realworld-apps/django-backend
+	url = https://github.com/gothinkster/django-realworld-example-app.git
+[submodule "realworld-apps/react-redux-frontend"]
+	path = realworld-apps/react-redux-frontend
+	url = https://github.com/gothinkster/react-redux-realworld-example-app
+[submodule "dockerfiles/dockerfiles-pack"]
+	path = dockerfiles/dockerfiles-pack
+	url = https://github.com/przemekkot/dockerfiles-1.git
+[submodule "dockerfiles/dockerfiles-pack-2"]
+	path = dockerfiles/dockerfiles-pack-2
+	url = https://github.com/przemekkot/dockerfiles.git
+[submodule "dockerfiles/dockerfiles-pack-3"]
+	path = dockerfiles/dockerfiles-pack-3
+	url = https://github.com/przemekkot/dockerfile.git

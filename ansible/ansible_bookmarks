@@ -1,0 +1,41 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(#1=(#("hashing objects - set hash and pass stuff" 0 41
+      (bmkp-full-record #1#))
+    (filename . "~/libraly/ansible/ansible/lib/ansible/utils/encrypt.py")
+    (buffer-name . "encrypt.py")
+    (front-context-string . "class CryptHash(")
+    (rear-context-string . "m = algorithm\n\n\n")
+    (front-context-region-string)
+    (rear-context-region-string)
+    (visits . 0)
+    (time . #2=(23998 38002 36646 531000))
+    (created . #2#)
+    (position . 2427))
+#1=(#("random password generator" 0 25
+      (bmkp-full-record #1#))
+    (filename . "~/libraly/ansible/ansible/lib/ansible/utils/encrypt.py")
+    (buffer-name . "encrypt.py")
+    (front-context-string . "def random_passw")
+    (rear-context-string . "D_LENGTH = 20\n\n\n")
+    (front-context-region-string)
+    (rear-context-region-string)
+    (visits . 0)
+    (time . #2=(23998 37923 969665 585000))
+    (created . #2#)
+    (position . 918))
+#1=(#("singleton.py" 0 12
+      (bmkp-full-record #1#))
+    (filename . "~/libraly/ansible/ansible/lib/ansible/utils/singleton.py")
+    (buffer-name . "singleton.py")
+    (front-context-string . "class Singleton(")
+    (rear-context-string . " import RLock\n\n\n")
+    (front-context-region-string)
+    (rear-context-region-string)
+    (visits . 0)
+    (time . #2=(23998 37322 245924 881000))
+    (created . #2#)
+    (position . 282))
+)
