@@ -169,3 +169,27 @@
 [submodule "dockerfiles/dockerfiles-pack-3"]
 	path = dockerfiles/dockerfiles-pack-3
 	url = https://github.com/przemekkot/dockerfile.git
+[submodule "ansible/ansible-playbooks-kali"]
+	path = ansible/ansible-playbooks-kali
+	url = https://github.com/byt3bl33d3r/AnsiblePlaybooks.git
+[submodule "ansible/learning-tools"]
+	path = ansible/learning-tools
+	url = https://github.com/scottslowe/learning-tools.git
+[submodule "ansible/metamon"]
+	path = ansible/metamon
+	url = https://github.com/tryolabs/metamon.git
+[submodule "ansible/ansible-playbooks-ubuntu"]
+	path = ansible/ansible-playbooks-ubuntu
+	url = https://github.com/augustl/ansible-playbooks.git
+[submodule "ansible/top_geerlingguy"]
+	path = ansible/top_geerlingguy
+	url = https://github.com/alikins/top_geerlingguy.git
+[submodule "ansible/ansible-role-skeleton"]
+	path = ansible/ansible-role-skeleton
+	url = https://github.com/bertvv/ansible-role-skeleton.git
+[submodule "ansible/ansible-toolbox"]
+	path = ansible/ansible-toolbox
+	url = https://github.com/bertvv/ansible-toolbox.git
+[submodule "ansible/Ubuntu-LTS"]
+	path = ansible/Ubuntu-LTS
+	url = https://github.com/pajuna/Ubuntu-LTS.git
