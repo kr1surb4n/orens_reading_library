@@ -193,3 +193,72 @@
 [submodule "ansible/Ubuntu-LTS"]
 	path = ansible/Ubuntu-LTS
 	url = https://github.com/pajuna/Ubuntu-LTS.git
+[submodule "devops/PostgrestSkeleton"]
+	path = devops/PostgrestSkeleton
+	url = https://github.com/Recmo/PostgrestSkeleton.git
+[submodule "taiga/taiga-back"]
+	path = taiga/taiga-back
+	url = https://github.com/taigaio/taiga-back
+[submodule "taiga/taiga-front"]
+	path = taiga/taiga-front
+	url = https://github.com/przemekkot/taiga-front
+[submodule "taiga/taiga-doc"]
+	path = taiga/taiga-doc
+	url = https://github.com/taigaio/taiga-doc
+[submodule "dockerfiles/Dockerfile-1"]
+	path = dockerfiles/Dockerfile-1
+	url = https://github.com/przemekkot/Dockerfile-1.git
+[submodule "php/phpunit"]
+	path = php/phpunit
+	url = https://github.com/przor3n/phpunit.git
+[submodule "php/guzzle"]
+	path = php/guzzle
+	url = https://github.com/guzzle/guzzle.git
+[submodule "cutters/pypackage"]
+	path = cutters/pypackage
+	url = https://github.com/audreyr/cookiecutter-pypackage.git
+[submodule "cutters/djangopackage"]
+	path = cutters/djangopackage
+	url = https://github.com/pydanny/cookiecutter-djangopackage.git
+[submodule "cutters/django"]
+	path = cutters/django
+	url = https://github.com/przor3n/cookiecutter-django.git
+[submodule "python/aiohohttp"]
+	path = python/aiohohttp
+	url = https://github.com/aio-libs/aiohttp.git
+[submodule "python/aiohttp-stuff/aiohttp-security"]
+	path = python/aiohttp-stuff/aiohttp-security
+	url = https://github.com/aio-libs/aiohttp-security.git
+[submodule "python/aiohttp-stuff/aiohttp-remote"]
+	path = python/aiohttp-stuff/aiohttp-remote
+	url = https://github.com/przor3n/aiohttp-remotes.git
+[submodule "python/aiohttp-stuff/aiohttp-session"]
+	path = python/aiohttp-stuff/aiohttp-session
+	url = https://github.com/aio-libs/aiohttp-session.git
+[submodule "python/aiohttp-stuff/aiohttp-cors"]
+	path = python/aiohttp-stuff/aiohttp-cors
+	url = https://github.com/aio-libs/aiohttp-cors.git
+[submodule "python/aiohttp-stuff/async_lru"]
+	path = python/aiohttp-stuff/async_lru
+	url = https://github.com/aio-libs/async_lru.git
+[submodule "python/aiohttp-stuff/aiohttp-devtools"]
+	path = python/aiohttp-stuff/aiohttp-devtools
+	url = https://github.com/aio-libs/aiohttp-devtools.git
+[submodule "python/aiohttp-stuff/pytest-aiohttp"]
+	path = python/aiohttp-stuff/pytest-aiohttp
+	url = https://github.com/aio-libs/pytest-aiohttp.git
+[submodule "python/aiohttp-stuff/benchmarks"]
+	path = python/aiohttp-stuff/benchmarks
+	url = https://github.com/aio-libs/aiohttp-benchmarks.git
+[submodule "python/aiohttp-stuff/aio-debug_toolbar"]
+	path = python/aiohttp-stuff/aio-debug_toolbar
+	url = https://github.com/aio-libs/aiohttp-debugtoolbar.git
+[submodule "python/aiohttp-stuff/aioauth-client"]
+	path = python/aiohttp-stuff/aioauth-client
+	url = https://github.com/klen/aioauth-client.git
+[submodule "python/aiohttp-stuff/demos"]
+	path = python/aiohttp-stuff/demos
+	url = https://github.com/przor3n/aiohttp-demos.git
+[submodule "python/aiohttp-stuff/create-aio-app"]
+	path = python/aiohttp-stuff/create-aio-app
+	url = https://github.com/aio-libs/create-aio-app.git
