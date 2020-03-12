@@ -262,3 +262,24 @@
 [submodule "python/aiohttp-stuff/create-aio-app"]
 	path = python/aiohttp-stuff/create-aio-app
 	url = https://github.com/aio-libs/create-aio-app.git
+[submodule "robotframework/RobotDemo"]
+	path = robotframework/RobotDemo
+	url = https://github.com/robotframework/RobotDemo.git
+[submodule "robotframework/WebDemo"]
+	path = robotframework/WebDemo
+	url = https://github.com/robotframework/WebDemo.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git://git.postgresql.org/git/postgresql.git
+[submodule "gitignores"]
+	path = gitignores
+	url = https://github.com/przor3n/gitignore.git
+[submodule "learnxinyminutes"]
+	path = learnxinyminutes
+	url = https://github.com/adambard/learnxinyminutes-docs.git
+[submodule "devops/prometheus"]
+	path = devops/prometheus
+	url = https://github.com/vegasbrianc/prometheus.git
+[submodule "devops/dockprom"]
+	path = devops/dockprom
+	url = https://github.com/przor3n/dockprom.git
